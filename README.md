@@ -1,8 +1,8 @@
-# No Hello
+# Stop saying dead chat
 
-Hello!
+dead chat.
 
-https://nohello.net/
+https://deadchat.info/
 
 ## Translators
 
